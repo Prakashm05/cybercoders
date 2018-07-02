@@ -1,0 +1,228 @@
+INFO    2018-07-02 10:54:00,256 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/status/200
+INFO    2018-07-02 10:54:00,573 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/1
+INFO    2018-07-02 10:54:00,891 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10
+INFO    2018-07-02 10:54:01,186 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10/1
+INFO    2018-07-02 10:54:01,237 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10/0
+INFO    2018-07-02 10:54:01,287 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10/2
+INFO    2018-07-02 10:54:01,335 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10/3
+INFO    2018-07-02 10:54:01,387 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10/4
+INFO    2018-07-02 10:54:01,437 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10/5
+INFO    2018-07-02 10:54:01,489 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10/6
+INFO    2018-07-02 10:54:01,554 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10/7
+INFO    2018-07-02 10:54:01,607 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10/8
+INFO    2018-07-02 10:54:01,687 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/10/9
+INFO    2018-07-02 10:54:01,739 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/status/500
+INFO    2018-07-02 10:54:01,788 [main] com.cyber.crawl.EndPointCrawler  - HTTP error fetching URL
+INFO    2018-07-02 10:54:01,788 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/2
+INFO    2018-07-02 10:54:02,101 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/2/1
+INFO    2018-07-02 10:54:02,155 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/2/0
+INFO    2018-07-02 10:54:02,206 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98
+INFO    2018-07-02 10:54:02,527 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/1
+INFO    2018-07-02 10:54:02,598 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/0
+INFO    2018-07-02 10:54:02,705 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/2
+INFO    2018-07-02 10:54:02,798 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/3
+INFO    2018-07-02 10:54:02,862 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/4
+INFO    2018-07-02 10:54:02,940 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/5
+INFO    2018-07-02 10:54:03,007 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/6
+INFO    2018-07-02 10:54:03,076 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/7
+INFO    2018-07-02 10:54:03,182 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/8
+INFO    2018-07-02 10:54:03,247 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/9
+INFO    2018-07-02 10:54:03,311 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/10
+INFO    2018-07-02 10:54:03,569 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/11
+INFO    2018-07-02 10:54:03,636 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/12
+INFO    2018-07-02 10:54:03,708 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/13
+INFO    2018-07-02 10:54:03,777 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/14
+INFO    2018-07-02 10:54:03,845 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/15
+INFO    2018-07-02 10:54:03,935 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/16
+INFO    2018-07-02 10:54:03,996 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/17
+INFO    2018-07-02 10:54:04,056 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/18
+INFO    2018-07-02 10:54:04,162 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/19
+INFO    2018-07-02 10:54:04,234 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/20
+INFO    2018-07-02 10:54:04,322 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/21
+INFO    2018-07-02 10:54:04,395 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/22
+INFO    2018-07-02 10:54:04,468 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/23
+INFO    2018-07-02 10:54:04,535 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/24
+INFO    2018-07-02 10:54:04,594 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/25
+INFO    2018-07-02 10:54:04,656 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/26
+INFO    2018-07-02 10:54:04,718 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/27
+INFO    2018-07-02 10:54:04,782 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/28
+INFO    2018-07-02 10:54:04,893 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/29
+INFO    2018-07-02 10:54:04,960 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/30
+INFO    2018-07-02 10:54:05,099 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/31
+INFO    2018-07-02 10:54:05,202 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/32
+INFO    2018-07-02 10:54:05,270 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/33
+INFO    2018-07-02 10:54:05,333 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/34
+INFO    2018-07-02 10:54:05,405 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/35
+INFO    2018-07-02 10:54:05,837 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/36
+INFO    2018-07-02 10:54:06,073 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/37
+INFO    2018-07-02 10:54:06,140 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/38
+INFO    2018-07-02 10:54:06,206 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/39
+INFO    2018-07-02 10:54:06,269 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/40
+INFO    2018-07-02 10:54:06,336 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/41
+INFO    2018-07-02 10:54:06,397 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/42
+INFO    2018-07-02 10:54:06,477 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/43
+INFO    2018-07-02 10:54:06,573 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/44
+INFO    2018-07-02 10:54:06,650 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/45
+INFO    2018-07-02 10:54:06,756 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/46
+INFO    2018-07-02 10:54:06,818 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/47
+INFO    2018-07-02 10:54:06,999 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/48
+INFO    2018-07-02 10:54:07,073 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/49
+INFO    2018-07-02 10:54:07,354 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/50
+INFO    2018-07-02 10:54:07,434 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/51
+INFO    2018-07-02 10:54:07,520 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/52
+INFO    2018-07-02 10:54:07,604 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/53
+INFO    2018-07-02 10:54:07,670 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/54
+INFO    2018-07-02 10:54:07,739 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/55
+INFO    2018-07-02 10:54:07,819 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/56
+INFO    2018-07-02 10:54:07,887 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/57
+INFO    2018-07-02 10:54:07,947 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/58
+INFO    2018-07-02 10:54:08,037 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/59
+INFO    2018-07-02 10:54:08,096 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/60
+INFO    2018-07-02 10:54:08,157 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/61
+INFO    2018-07-02 10:54:08,222 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/62
+INFO    2018-07-02 10:54:08,481 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/63
+INFO    2018-07-02 10:54:08,547 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/64
+INFO    2018-07-02 10:54:08,608 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/65
+INFO    2018-07-02 10:54:08,668 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/66
+INFO    2018-07-02 10:54:08,736 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/67
+INFO    2018-07-02 10:54:08,797 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/68
+INFO    2018-07-02 10:54:08,862 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/69
+INFO    2018-07-02 10:54:08,949 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/70
+INFO    2018-07-02 10:54:09,009 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/71
+INFO    2018-07-02 10:54:09,080 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/72
+INFO    2018-07-02 10:54:09,276 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/73
+INFO    2018-07-02 10:54:09,338 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/74
+INFO    2018-07-02 10:54:09,439 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/75
+INFO    2018-07-02 10:54:09,511 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/76
+INFO    2018-07-02 10:54:09,576 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/77
+INFO    2018-07-02 10:54:09,651 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/78
+INFO    2018-07-02 10:54:09,715 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/79
+INFO    2018-07-02 10:54:09,871 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/80
+INFO    2018-07-02 10:54:09,993 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/81
+INFO    2018-07-02 10:54:10,057 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/82
+INFO    2018-07-02 10:54:10,153 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/83
+INFO    2018-07-02 10:54:10,225 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/84
+INFO    2018-07-02 10:54:10,286 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/85
+INFO    2018-07-02 10:54:10,344 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/86
+INFO    2018-07-02 10:54:10,418 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/87
+INFO    2018-07-02 10:54:10,480 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/88
+INFO    2018-07-02 10:54:10,553 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/89
+INFO    2018-07-02 10:54:10,622 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/90
+INFO    2018-07-02 10:54:10,691 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/91
+INFO    2018-07-02 10:54:10,756 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/92
+INFO    2018-07-02 10:54:10,829 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/93
+INFO    2018-07-02 10:54:10,889 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/94
+INFO    2018-07-02 10:54:10,950 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/95
+INFO    2018-07-02 10:54:11,020 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/96
+INFO    2018-07-02 10:54:11,084 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/98/97
+INFO    2018-07-02 10:54:11,160 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/status/404
+INFO    2018-07-02 10:54:11,210 [main] com.cyber.crawl.EndPointCrawler  - HTTP error fetching URL
+INFO    2018-07-02 10:54:11,210 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/7
+INFO    2018-07-02 10:54:11,717 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/7/1
+INFO    2018-07-02 10:54:11,765 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/7/0
+INFO    2018-07-02 10:54:11,814 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/7/2
+INFO    2018-07-02 10:54:11,864 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/7/3
+INFO    2018-07-02 10:54:11,913 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/7/4
+INFO    2018-07-02 10:54:11,970 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/7/5
+INFO    2018-07-02 10:54:12,024 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/7/6
+INFO    2018-07-02 10:54:12,074 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/status/400
+INFO    2018-07-02 10:54:12,125 [main] com.cyber.crawl.EndPointCrawler  - HTTP error fetching URL
+INFO    2018-07-02 10:54:12,126 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/4
+INFO    2018-07-02 10:54:12,443 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/4/1
+INFO    2018-07-02 10:54:12,492 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/4/0
+INFO    2018-07-02 10:54:12,540 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/4/2
+INFO    2018-07-02 10:54:12,616 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/4/3
+INFO    2018-07-02 10:54:12,664 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/status/502
+INFO    2018-07-02 10:54:12,709 [main] com.cyber.crawl.EndPointCrawler  - HTTP error fetching URL
+INFO    2018-07-02 10:54:12,709 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/0
+INFO    2018-07-02 10:54:12,994 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54
+INFO    2018-07-02 10:54:13,442 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/1
+INFO    2018-07-02 10:54:13,499 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/0
+INFO    2018-07-02 10:54:13,552 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/2
+INFO    2018-07-02 10:54:13,606 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/3
+INFO    2018-07-02 10:54:13,658 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/4
+INFO    2018-07-02 10:54:13,716 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/5
+INFO    2018-07-02 10:54:13,771 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/6
+INFO    2018-07-02 10:54:13,830 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/7
+INFO    2018-07-02 10:54:13,930 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/8
+INFO    2018-07-02 10:54:14,024 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/9
+INFO    2018-07-02 10:54:14,078 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/10
+INFO    2018-07-02 10:54:14,129 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/11
+INFO    2018-07-02 10:54:14,200 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/12
+INFO    2018-07-02 10:54:14,257 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/13
+INFO    2018-07-02 10:54:14,311 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/14
+INFO    2018-07-02 10:54:14,372 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/15
+INFO    2018-07-02 10:54:14,428 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/16
+INFO    2018-07-02 10:54:14,516 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/17
+INFO    2018-07-02 10:54:14,573 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/18
+INFO    2018-07-02 10:54:14,625 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/19
+INFO    2018-07-02 10:54:14,687 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/20
+INFO    2018-07-02 10:54:14,738 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/21
+INFO    2018-07-02 10:54:14,810 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/22
+INFO    2018-07-02 10:54:14,879 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/23
+INFO    2018-07-02 10:54:14,941 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/24
+INFO    2018-07-02 10:54:15,002 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/25
+INFO    2018-07-02 10:54:15,054 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/26
+INFO    2018-07-02 10:54:15,113 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/27
+INFO    2018-07-02 10:54:15,166 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/28
+INFO    2018-07-02 10:54:15,227 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/29
+INFO    2018-07-02 10:54:15,323 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/30
+INFO    2018-07-02 10:54:15,378 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/31
+INFO    2018-07-02 10:54:15,451 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/32
+INFO    2018-07-02 10:54:15,527 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/33
+INFO    2018-07-02 10:54:15,583 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/34
+INFO    2018-07-02 10:54:15,678 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/35
+INFO    2018-07-02 10:54:15,781 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/36
+INFO    2018-07-02 10:54:15,836 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/37
+INFO    2018-07-02 10:54:15,894 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/38
+INFO    2018-07-02 10:54:15,951 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/39
+INFO    2018-07-02 10:54:16,022 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/40
+INFO    2018-07-02 10:54:16,095 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/41
+INFO    2018-07-02 10:54:16,151 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/42
+INFO    2018-07-02 10:54:16,214 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/43
+INFO    2018-07-02 10:54:16,269 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/44
+INFO    2018-07-02 10:54:16,323 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/45
+INFO    2018-07-02 10:54:16,376 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/46
+INFO    2018-07-02 10:54:16,433 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/47
+INFO    2018-07-02 10:54:16,512 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/48
+INFO    2018-07-02 10:54:16,570 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/49
+INFO    2018-07-02 10:54:16,642 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/50
+INFO    2018-07-02 10:54:16,710 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/51
+INFO    2018-07-02 10:54:16,792 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/52
+INFO    2018-07-02 10:54:16,846 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/54/53
+INFO    2018-07-02 10:54:16,919 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/3
+INFO    2018-07-02 10:54:17,227 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/3/1
+INFO    2018-07-02 10:54:17,275 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/3/0
+INFO    2018-07-02 10:54:17,322 [main] com.cyber.crawl.EndPointCrawler  - https://httpbin.org/links/3/2
+INFO    2018-07-02 10:54:17,367 [main] com.cyber.crawl.EndPointCrawler  - 
+INFO    2018-07-02 10:54:17,367 [main] com.cyber.crawl.EndPointCrawler  - Total number of http requests = 192
+INFO    2018-07-02 10:54:17,367 [main] com.cyber.crawl.EndPointCrawler  - Total number of successful requests = 188
+INFO    2018-07-02 10:54:17,367 [main] com.cyber.crawl.EndPointCrawler  - Total number of failed requests = 4
+INFO    2018-07-02 10:54:17,367 [main] com.cyber.crawl.EndPointCrawler  - END
+INFO    2018-07-02 10:54:17,369 [main] com.cyber.crawl.EndPointCrawler  - http://dummyurl.com
+INFO    2018-07-02 10:54:17,931 [main] com.cyber.crawl.EndPointCrawler  - 
+INFO    2018-07-02 10:54:17,931 [main] com.cyber.crawl.EndPointCrawler  - Total number of http requests = 1
+INFO    2018-07-02 10:54:17,931 [main] com.cyber.crawl.EndPointCrawler  - Total number of successful requests = 1
+INFO    2018-07-02 10:54:17,931 [main] com.cyber.crawl.EndPointCrawler  - Total number of failed requests = 0
+INFO    2018-07-02 10:54:17,931 [main] com.cyber.crawl.EndPointCrawler  - END
+INFO    2018-07-02 10:54:17,932 [main] com.cyber.crawl.EndPointCrawler  - http://dummyurl1.com
+INFO    2018-07-02 10:54:17,933 [main] com.cyber.crawl.EndPointCrawler  - dummyurl1.com
+INFO    2018-07-02 10:54:17,933 [main] com.cyber.crawl.EndPointCrawler  - 
+INFO    2018-07-02 10:54:17,934 [main] com.cyber.crawl.EndPointCrawler  - Total number of http requests = 1
+INFO    2018-07-02 10:54:17,934 [main] com.cyber.crawl.EndPointCrawler  - Total number of successful requests = 0
+INFO    2018-07-02 10:54:17,934 [main] com.cyber.crawl.EndPointCrawler  - Total number of failed requests = 1
+INFO    2018-07-02 10:54:17,934 [main] com.cyber.crawl.EndPointCrawler  - END
+INFO    2018-07-02 10:54:17,934 [main] com.cyber.crawl.EndPointCrawler  - http://dummylink1.com
+INFO    2018-07-02 10:54:17,935 [main] com.cyber.crawl.EndPointCrawler  - dummylink1.com
+INFO    2018-07-02 10:54:17,935 [main] com.cyber.crawl.EndPointCrawler  - 
+INFO    2018-07-02 10:54:17,935 [main] com.cyber.crawl.EndPointCrawler  - Total number of http requests = 1
+INFO    2018-07-02 10:54:17,935 [main] com.cyber.crawl.EndPointCrawler  - Total number of successful requests = 0
+INFO    2018-07-02 10:54:17,935 [main] com.cyber.crawl.EndPointCrawler  - Total number of failed requests = 1
+INFO    2018-07-02 10:54:17,935 [main] com.cyber.crawl.EndPointCrawler  - END
+INFO    2018-07-02 10:54:18,151 [main] com.cyber.crawl.EndPointCrawler  - http://dummyurl.com/dummy.json
+INFO    2018-07-02 10:54:18,279 [main] com.cyber.crawl.EndPointCrawler  - HTTP error fetching URL
+INFO    2018-07-02 10:54:18,279 [main] com.cyber.crawl.EndPointCrawler  - 
+INFO    2018-07-02 10:54:18,279 [main] com.cyber.crawl.EndPointCrawler  - Total number of http requests = 1
+INFO    2018-07-02 10:54:18,279 [main] com.cyber.crawl.EndPointCrawler  - Total number of successful requests = 0
+INFO    2018-07-02 10:54:18,279 [main] com.cyber.crawl.EndPointCrawler  - Total number of failed requests = 1
+INFO    2018-07-02 10:54:18,279 [main] com.cyber.crawl.EndPointCrawler  - END
